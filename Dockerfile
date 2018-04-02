@@ -1,1 +1,1 @@
-FROM oddrationale/docker-shadowsocks
+FROM mritd/shadowsocks
